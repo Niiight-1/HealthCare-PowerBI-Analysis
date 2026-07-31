@@ -17,7 +17,7 @@ Provides an overall view of:
 - YOY Growth
 - Revenue and Visits trends
 
-![Overview](overview.png)
+![Overview](Overview.png)
 
 ### 2. Department Analysis
 Analyzes:
