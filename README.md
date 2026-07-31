@@ -27,7 +27,7 @@ Analyzes:
 - Seasonal Visit Patterns
 - Weekday vs Weekend Visits
 
-![Department Analysis](department-analysis.png)
+![Department Analysis](Department-Analysis.png)
 
 ### 3. Financials
 Includes:
@@ -37,7 +37,7 @@ Includes:
 - Revenue by Payment Method
 - Revenue by Insurance Provider
 
-![Financials](financials.png)
+![Financials](Financials.png)
 
 ### 4. Patient Insights
 Analyzes:
@@ -48,7 +48,7 @@ Analyzes:
 - Patient Age
 - Doctor Visits and Satisfaction
 
-![Patient Insights](patient-insights.png)
+![Patient Insights](Patient-Insights.png)
 
 ## Tools & Technologies
 
